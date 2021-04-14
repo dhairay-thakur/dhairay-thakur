@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**dhairay-thakur/dhairay-thakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+   <a href="https://github.com/dhairay-thakur">
+    <img align="center" src="https://user-images.githubusercontent.com/56518563/114714219-85574b80-9d4f-11eb-9956-dc07ad0cb21c.png" alt="dhairay-thakur" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=dhairay-thakur&color=blue"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <a href="https://github.com/dhairay-thakur">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhairay-thakur&show_icons=true&locale=en&layout=compact" alt="dhairay-thakur" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dhairay-thakur">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhairay-thakur&hide=contribs,prs,issues" alt="dhairay-thakur" />
+  </a>
+</p>
